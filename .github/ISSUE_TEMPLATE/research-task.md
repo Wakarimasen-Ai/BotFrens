@@ -2,7 +2,7 @@
 name: Research Task
 about: Tasks involving research, documentation, or learning new information for BotFrens
 title: "[Research] <Clear title of research task>"
-labels: ''
+labels: research
 assignees: ''
 
 ---
