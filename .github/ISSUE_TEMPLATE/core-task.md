@@ -3,7 +3,7 @@ name: Core Task
 about: Essential task for BotFrens project success
 title: "[Core] <Short, clear title here>"
 labels: Core
-assignees: ''
+assignees: Wakarimasen-Ai
 
 ---
 
