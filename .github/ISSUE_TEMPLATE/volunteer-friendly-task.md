@@ -7,13 +7,16 @@ assignees: ''
 
 ---
 
-## Description
+## 📋 Task Description
 Describe in simple language what the volunteer needs to do.
 
-## Steps to Complete
+## ✨ Steps to Complete
 1. Simple step one
 2. Simple step two
 
-## How to Get Help
-- Ask questions in our [Discord channel](link)
-- Leave comments here for clarification
+## ❓ How to Get Help
+- 📬 Ask questions in our [Discord channel](link).
+- 💬 Leave comments here for quick clarification.
+
+## 📝 Documentation and Reporting
+- 📑 Briefly document any learnings or experiences during the task.
